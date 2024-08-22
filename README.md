@@ -153,4 +153,3 @@ model.evaluate(X_test_prep, y_test)
 
 <h2>Acknowledgements</h2>
 This project is based on the analysis and classification of brain tumor images using deep learning techniques. Special thanks to the open-source community for providing the tools and libraries used in this project.
-
